@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mundru Krishnaprasad</h1>
+<h1 align="center">Hi 👋, I'm RajeshBabu Muvva</h1>
 <h3 align="center">A passionate software engineer</h3>
 <img align="flex" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
